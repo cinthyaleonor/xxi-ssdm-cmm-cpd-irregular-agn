@@ -281,27 +281,9 @@ where $f_1 = 1/182.6\,\mathrm{days}$ converted to index units via `p_index = 182
 
 ```bash
 python scripts/plots_astropy.py
-# Optional: compile the Beamer presentation
-pdflatex main && bibtex main && pdflatex main && pdflatex main
-```
-
-### 3.6 Repository Structure
 
 ```
-├── README.md
-├── LICENSE
-├── citation.cff, .zenodo.json
-├── requirements-astropy.txt
-├── img/                          # Repo images (e.g. README)
-├── scripts/
-│   └── plots_astropy.py          # Writes figures to presentation/img/
-├── presentation/
-│   ├── main.tex, main.pdf
-│   ├── bib.bib
-│   ├── img/                      # Slide figures (script + your images)
-│   └── *.sty                     # OsloMet Beamer theme
-└── theoretical_background_v3.md  # This document
-```
+
 
 ### 3.7 Limitations (By Design)
 
@@ -320,7 +302,6 @@ Vergara Silva, C. L. (2026). Change Point Detection in Irregularly Sampled Time 
 Zenodo. https://doi.org/10.5281/zenodo.18779915
 ```
 
-Also cite: PELT (Killick et al. 2012), ruptures (Truong et al. 2020), ZTF data (Sánchez-Sáez et al. 2024), Bayesian Blocks (Scargle et al. 2013), Binary Segmentation (Fryzlewicz 2014), and least-squares shift estimation (Bai 1994) for the piecewise implementation.
 
 ---
 
