@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "Change Point Detection in Irregularly Sampled Time Series: AGN Light Curves Toy Example"
+version: 1.0.0
+date-released: 2026-01-07  # date of the presentation
+doi: 10.5281/zenodo.XXXXX
+
+authors:
+  - family-names: Vergara Silva
+    given-names: Cinthya Leonor
+    orcid: https://orcid.org/0000-0003-4107-6135
+
+keywords:
+  - change point detection
+  - irregularly sampled time series
+  - AGN light curves
+  - toy example
+  - Python
+  - ruptures
+
+license: MIT
+repository-code: https://github.com/cinthyaleonor/xxi-ssdm-cpd-irregular-agn
+
+abstract: >
+  This repository contains the materials for the student talk
+  "Change Point Detection in Irregularly Sampled Time Series:
+  AGN Light Curves Toy Example," presented at the XXI Escuela
+  de Verano en Matemáticas Discretas (CMM 2026), Universidad
+  Adolfo Ibáñez, Viña del Mar, Chile. The project presents a
+  pedagogical application of changepoint detection techniques
+  to an AGN light curve using Astropy and the `ruptures`
+  package. The implementation includes PELT-based segmentation
+  and binary segmentation with quadratic + harmonic regression
+  for the piecewise model. 
