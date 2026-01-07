@@ -1,0 +1,13 @@
+# LaTeX build artifacts (keep .tex, .bib, .sty, img/)
+presentation/
+*.synctex.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# OS
+.DS_Store
+Thumbs.db
