@@ -125,7 +125,7 @@ The script is kept short and readable for teaching; it is not a production pipel
 If you use this repository for teaching, replication, or derivative work, please cite the Zenodo release (once published). For example:
 
 ```text
-Vergara Silva, C. L. (2026). *Change Point Detection in Irregularly Sampled Time Series: AGN Light Curve Toy Example* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXX
+Vergara Silva, C. L. (2026). *Change Point Detection in Irregularly Sampled Time Series: AGN Light Curves Toy Example* (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18779915
 ```
 
 

@@ -2,7 +2,7 @@ cff-version: 1.2.0
 title: "Change Point Detection in Irregularly Sampled Time Series: AGN Light Curves Toy Example"
 version: 1.0.0
 date-released: 2026-01-07  # date of the presentation
-doi: 10.5281/zenodo.XXXXX
+doi: 10.5281/zenodo.18779915
 
 authors:
   - family-names: Vergara Silva
@@ -18,7 +18,7 @@ keywords:
   - ruptures
 
 license: MIT
-repository-code: https://github.com/cinthyaleonor/xxi-ssdm-cpd-irregular-agn
+repository-code: https://github.com/cinthyaleonor/xxi-ssdm-cmm-cpd-irregular-agn
 
 abstract: >
   This repository contains the materials for the student talk

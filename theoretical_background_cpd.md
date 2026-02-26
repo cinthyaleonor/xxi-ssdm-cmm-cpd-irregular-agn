@@ -317,7 +317,7 @@ pdflatex main && bibtex main && pdflatex main && pdflatex main
 
 ```
 Vergara Silva, C. L. (2026). Change Point Detection in Irregularly Sampled Time Series — AGN Light Curves Toy Example. Student Talk Summer School in Discrete Mathematics , CMM, January 2026, UAI, Viña del Mar, Chile.
-Zenodo. https://doi.org/10.5281/zenodo.XXXXX
+Zenodo. https://doi.org/10.5281/zenodo.18779915
 ```
 
 Also cite: PELT (Killick et al. 2012), ruptures (Truong et al. 2020), ZTF data (Sánchez-Sáez et al. 2024), Bayesian Blocks (Scargle et al. 2013), Binary Segmentation (Fryzlewicz 2014), and least-squares shift estimation (Bai 1994) for the piecewise implementation.
