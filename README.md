@@ -1,5 +1,9 @@
 # Change Point Detection in Irregularly Sampled Time Series — AGN Light Curves Toy Example
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18779915.svg)](https://doi.org/10.5281/zenodo.18779915)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Example application and replication code accompanying the presentation *Change Point Detection in Irregularly Sampled Time Series — AGN Light Curves Toy Example*. This repository provides a **teaching-oriented toy example** using the awakening AGN *ZTF19acnskyy* (SDSS J133519.91+072807.4): data are fetched from the IRSA ZTF Lightcurve API via the Astropy ecosystem, and changepoint detection (PELT) plus a piecewise trend+harmonic model are demonstrated.
 
 ## Context
@@ -111,7 +115,7 @@ The script is kept short and readable for teaching; it is not a production pipel
 If you use this repository for teaching, replication, or derivative work, please cite the Zenodo release (once published). For example:
 
 ```text
-Vergara Silva, C. L. (2026). *Change Point Detection in Irregularly Sampled Time Series: AGN Light Curves Toy Example* (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18779915
+Vergara Silva, C. L. (2026). Change Point Detection in Irregularly Sampled Time Series: AGN Light Curves Toy Example (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18779915
 ```
 
 
